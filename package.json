@@ -38,6 +38,8 @@
     "uuid": "^7.0.3"
   },
   "resolutions": {
-    "is-promise": "2.1.0"
+    "is-promise": "2.1.0",
+    "lint-staged/is-promise": "2.1.0",
+    "eslint/is-promise": "2.1.0"
   }
 }
